@@ -1,1 +1,1 @@
-Los ejercicios, aunque están realizados por mí, pertenecen a UPV PRG.
+Los ejercicios, aunque están resueltos por mí, pertenecen a UPV PRG.
